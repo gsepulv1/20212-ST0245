@@ -54,7 +54,7 @@ class linked_list:
             print(node.data, end =" => ")
             node = node.next
 
-
+##################################
 s = linked_list() # Instancia de la clase
 s.add_at_front(5) # Agregamos un elemento al frente del nodo
 s.add_at_end(8) # Agregamos un elemento al final del nodo
